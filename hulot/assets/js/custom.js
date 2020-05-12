@@ -22,9 +22,11 @@
   
 **/
 
-alert("Version Alpha. This website is still at TEST PHASE.");
+
 
 jQuery(function($){
+ 
+  alert("Version Alpha. This website is still at TEST PHASE.");
   /* ----------------------------------------------------------- */
   /*  1. TOP SLIDER (SLICK SLIDER)
   /* ----------------------------------------------------------- */    
