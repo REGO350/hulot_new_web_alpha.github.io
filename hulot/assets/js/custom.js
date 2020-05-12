@@ -22,7 +22,7 @@
   
 **/
 
-// alert("アルファ版、開発途中のサイトです");
+alert("Version Alpha. This website is still at TEST PHASE.");
 
 jQuery(function($){
   /* ----------------------------------------------------------- */
